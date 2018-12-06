@@ -1,7 +1,7 @@
 {
     "name": "autocomplete-from-file",
     "main": "./lib/autocomplete-from-file",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Adds contents of external files to autocomplete-plus suggestions",
     "repository": "https://github.com/mbroedl/atom-autocomplete-from-file",
     "license": "MIT",
